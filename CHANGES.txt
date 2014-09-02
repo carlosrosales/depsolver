@@ -1,0 +1,7 @@
+v2.1 (2008-11-10) Carlos Rosales Fernandez
+==========================================
+
+* Fixed error in the calculation of teh dielectrophoretic 
+  force in the multipolar approximation for orders 2 and 3
+  for the case of quadratic triangular elements. Only the 
+  file "force.c" has been modified from v2.0.
