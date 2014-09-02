@@ -1,0 +1,23 @@
+depElectric(): started @ Mon Jul 31 17:18:26 2006
+
+Using 9764 Nodes and 4444 tria6 Elems to solve AC Electrostatic Problem
+Number of interfaces: 2
+Number of different materials: 3
+
+depElectric(): calling formMatrix_tria6() ...
+depElectric(): calling solverGMRES() ...
+depElectric(): calling postProcess_tria6() ...
+	postProcess_tria6(): doing potential and field calculation...
+
+*** depElectric(): performance analysis ***
+TIME READING INPUT: 		0.1 seconds
+TIME IN ASSEMBLY: 		1 m 7.2 s
+TIME IN SOLVER: 		1 m 18.0 s
+TIME IN POST-PROCESSING: 	38.4 seconds
+TOTAL EXECUTION TIME: 	3 m 3.7 s
+
+depElectric(): finshed @ Mon Jul 31 17:22:47 2006
+
+
+********************************************************************************
+

@@ -1,0 +1,1 @@
+cc -lm -O3 -o forcePost forcePost.c

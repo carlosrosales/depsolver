@@ -1,0 +1,1 @@
+cc -msse2 -mfpmath=sse -funroll-loops -fprefetch-loop-arrays -O3 -o p2b p2b.c
