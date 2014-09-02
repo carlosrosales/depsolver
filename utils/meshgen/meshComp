@@ -1,1 +1,0 @@
-cc -O2 -o meshgen meshgen.c

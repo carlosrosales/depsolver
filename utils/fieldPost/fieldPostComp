@@ -1,1 +1,0 @@
-cc -lm -O3 -o fieldPost fieldPost.c
