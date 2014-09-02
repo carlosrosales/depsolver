@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+
+\bibitem{Rosales2005}
+C.~Rosales and K.~M. Lim.
+\newblock Numerical comparison between maxwell stress method and equivalent
+  multipole approach for calculation of the dielectrophoretic force in
+  single-cell traps.
+\newblock {\em Electrophoresis}, 26:2057--2065, 2005.
+
+\bibitem{Paraview}
+{P}araview is an open source multi-platform visualization application that
+  provides options relevant to the scientific community such as parallel
+  rendering facilities for large data sets. {F}or more information visit the
+  official web site at \verb+http://www.paraview.org/+.
+
+\bibitem{patran}
+Patran is an open-architecture, {3-D} computer aided-engineering software
+  package from {MSC.S}oftware {C}orporation. {F}or more information visit their
+  web site at \verb+http://www.mscsoftware.com/products/patran.cfm+.
+
+\bibitem{matlab}
+Matlab ({\it matrix laboratory}) is an interactive programming environment from
+  {The MathWorks} that provides tools for data visualization, data analysis,
+  and numeric computation. {F}or more information visit their web site at
+  \verb+http://www.mathworks.com/products/matlab/description1.html+.
+
+\bibitem{gnuplot}
+Gnuplot is a command-line driven interactive data and function plotting utility
+  distributed as copyrighted but free software. {F}or more information visit
+  the official {G}nuplot web site \verb+http://www.gnuplot.info/+.
+
+\bibitem{doxygen}
+Doxygen is an open source automatic documentation tool for a multitude of
+  programming languages, including {C}, {C++}, {J}ava, {F}ortran, {P}ython,
+  {VHDL} and others. for more information visit the {D}oxygen official website
+  at \verb+http://www.doxygen.org+.
+
+\bibitem{Brebbia1978}
+C.~A. Brebbia.
+\newblock {\em The boundary element method for engineers}.
+\newblock Pentech Press, London (UK), 1978.
+
+\bibitem{Wrobel2002}
+L.~C. Wrobel.
+\newblock {The Boundary Element Method}, 2002.
+
+\bibitem{Jones1995}
+T.~B. Jones.
+\newblock {\em Electromechanics of Particles}.
+\newblock Cambridge University Press, Cambridge (UK), 1995.
+
+\bibitem{Pohl1978}
+H.~Pohl.
+\newblock {\em Dielectrophoresis}.
+\newblock Cambridge University Press, Cambridge (UK), 1978.
+
+\bibitem{Washizu1994}
+T.~B. Jones and M.~Washizu.
+\newblock Multipolar dielectrophoretic force calculation.
+\newblock {\em Journal of Electrostatics}, 33:187--198, 1994.
+
+\bibitem{Jones1996}
+T.~B. Jones and M.~Washizu.
+\newblock Multipolar dielectrophoretic and electrorotation theory.
+\newblock {\em Journal of Electrostatics}, 37:121--134, 1996.
+
+\bibitem{Wang1997}
+X.~Wang, X.-B. Wang, and P.~R.~C. Gascoyne.
+\newblock General expressions for dielectrophoretic force and electrorotational
+  torque derived using the maxwell stress tensor method.
+\newblock {\em Journal of Electrostatics}, 39:277--295, 1997.
+
+\end{thebibliography}

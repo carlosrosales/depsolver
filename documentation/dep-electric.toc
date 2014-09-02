@@ -1,0 +1,49 @@
+\contentsline {part}{I\hspace {1em}User Manual}{1}
+\contentsline {chapter}{\numberline {1}Introduction and general remarks}{3}
+\contentsline {section}{\numberline {1.1}Quick Install Guide}{3}
+\contentsline {section}{\numberline {1.2}Complete Install Guide}{4}
+\contentsline {subsection}{\numberline {1.2.1}Individual Compilation}{5}
+\contentsline {subsection}{\numberline {1.2.2}Running the solver}{6}
+\contentsline {chapter}{\numberline {2}Pre-Processing}{7}
+\contentsline {section}{\numberline {2.1}Mesh Generation Using Patran}{7}
+\contentsline {section}{\numberline {2.2}Converting Patran output to the right format}{8}
+\contentsline {section}{\numberline {2.3}Generating evaluation points file}{9}
+\contentsline {subsection}{\numberline {2.3.1}Standard Output}{9}
+\contentsline {subsection}{\numberline {2.3.2}Paraview Formatted Output}{9}
+\contentsline {chapter}{\numberline {3}Input File Format}{12}
+\contentsline {section}{\numberline {3.1}Nodes Section}{12}
+\contentsline {section}{\numberline {3.2}Elements Section}{13}
+\contentsline {section}{\numberline {3.3}Materials Section}{13}
+\contentsline {section}{\numberline {3.4}Interfaces Section}{14}
+\contentsline {section}{\numberline {3.5}Problem Section}{14}
+\contentsline {section}{\numberline {3.6}Re-positioning Section}{15}
+\contentsline {section}{\numberline {3.7}Analysis Section}{15}
+\contentsline {section}{\numberline {3.8}Internal Points Section}{17}
+\contentsline {section}{\numberline {3.9}Columns Section}{18}
+\contentsline {chapter}{\numberline {4}Post-Processing}{21}
+\contentsline {section}{\numberline {4.1}Break}{21}
+\contentsline {section}{\numberline {4.2}gplotForm}{22}
+\contentsline {section}{\numberline {4.3}FieldPost}{23}
+\contentsline {section}{\numberline {4.4}ForcePost}{24}
+\contentsline {section}{\numberline {4.5}PotPost}{25}
+\contentsline {chapter}{\numberline {5}Example Files}{27}
+\contentsline {part}{II\hspace {1em}The Indirect Boundary Element Formulation}{29}
+\contentsline {chapter}{\numberline {6}Indirect Formulation of the Boundary Element Method}{31}
+\contentsline {section}{\numberline {6.1}Laplace Equation in the IBEM Formulation}{31}
+\contentsline {section}{\numberline {6.2}Poisson Equation in the IBEM Formulation}{35}
+\contentsline {part}{III\hspace {1em}Implementation Details}{37}
+\contentsline {chapter}{\numberline {7}Element Library}{39}
+\contentsline {chapter}{\numberline {8}Numerical Integration}{41}
+\contentsline {section}{\numberline {8.1}Regular integrals}{41}
+\contentsline {section}{\numberline {8.2}Weakly singular integrals}{41}
+\contentsline {section}{\numberline {8.3}Strongly singular integrals}{43}
+\contentsline {section}{\numberline {8.4}Changing the number of integration points}{43}
+\contentsline {chapter}{\numberline {9}The electrostatic problem in DEP traps}{47}
+\contentsline {section}{\numberline {9.1}IBEM treatment of the electrostatic problem}{48}
+\contentsline {subsection}{\numberline {9.1.1}DC Case}{50}
+\contentsline {subsection}{\numberline {9.1.2}AC case}{51}
+\contentsline {section}{\numberline {9.2}Calculation of the DEP force}{56}
+\contentsline {subsection}{\numberline {9.2.1}Equivalent multipole model of the DEP force}{56}
+\contentsline {subsection}{\numberline {9.2.2}Maxwell stress tensor derivation of the DEP force}{59}
+\contentsline {chapter}{\numberline {A}Function Listing}{61}
+\contentsline {chapter}{References}{65}
